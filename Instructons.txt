@@ -1,0 +1,3 @@
+This project is a basic C sharp Dice game that can be played between one or two player depending upon the selection of options. 
+
+Feel free to ask any question.

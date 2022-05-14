@@ -1,0 +1,59 @@
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.exe
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.deps.json
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.runtimeconfig.json
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.dll
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\ref\LocalProject.dll
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.pdb
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.AssemblyReference.cache
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form1.resources
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.GenerateResource.cache
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.AssemblyInfoInputs.cache
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.AssemblyInfo.cs
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.CoreCompileInputs.cache
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.dll
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\ref\LocalProject.dll
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.pdb
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.genruntimeconfig.cache
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form2.resources
+C:\Users\Sentinel\Desktop\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Properties.Resources.resources
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.exe
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.deps.json
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.runtimeconfig.json
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.dll
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\ref\LocalProject.dll
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.pdb
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.AssemblyReference.cache
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form1.resources
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form2.resources
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Properties.Resources.resources
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form3.resources
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.GenerateResource.cache
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.AssemblyInfoInputs.cache
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.AssemblyInfo.cs
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.CoreCompileInputs.cache
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.dll
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\ref\LocalProject.dll
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.pdb
+E:\Bakcup Windows\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.genruntimeconfig.cache
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.exe
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.deps.json
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.runtimeconfig.json
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.dll
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\bin\Debug\net6.0-windows\LocalProject.pdb
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.AssemblyReference.cache
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form1.resources
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form2.resources
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Properties.Resources.resources
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.Form3.resources
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.GenerateResource.cache
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.AssemblyInfoInputs.cache
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.AssemblyInfo.cs
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.csproj.CoreCompileInputs.cache
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.dll
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\refint\LocalProject.dll
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.pdb
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\LocalProject.genruntimeconfig.cache
+E:\Backup's\Backup - 2\Local Project\LocalProject\LocalProject\obj\Debug\net6.0-windows\ref\LocalProject.dll
